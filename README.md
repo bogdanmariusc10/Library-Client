@@ -1,1 +1,2 @@
-Library Client
+# Library Client
+This Library Client app connects to an online bookstore through a HTTP REST API, providing users with an easy way to browse, manage, and purchase books. Users can explore books across various genres, add items to their cart, and organize favorites for later reference. The app supports functionalities like viewing the current contents of the cart and making purchases seamlessly. The integration with the REST API ensures real-time data synchronization, making it efficient and reliable for all interactions with the online bookstore.
